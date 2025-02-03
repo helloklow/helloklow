@@ -1,5 +1,5 @@
 <h1 align="center"> Hi, I'm Kelsey Low :woman_technologist:</h1>
-<h3 align="center">I'm a Data Scientist & Machine Learning Engineer. With 5 years of experience as an Integration and Implementation Engineer and a degree in Visual Journalism, I'm passionate about combining the creative and the technical to tell stories with data.</h3>
+<h3 align="center">I'm a Data Scientist & Machine Learning Engineer. With 5 years of experience as an Integration and Implementation Engineer and a degree in Visual Journalism, I'm passionate about combining the technical and the creative to tell insightful stories with data.</h3>
 
 - :bulb: I’m currently working on [U.S. Disaster Predictions](https://github.com/4GeeksAcademy/helloklow_natural_disasters)
 
