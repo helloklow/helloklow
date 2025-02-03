@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kelsey Low</h1>
+<h1 align="center"> Hi, I'm Kelsey Low :woman_technologist:</h1>
 <h3 align="center">Data Scientist & Machine Learning Engineer with 12+ years in tech, including 5 years as a Software Developer. Expertise in Python, ML modeling (Scikit-learn, TensorFlow), and data visualization. Proven ability to develop and deploy impactful solutions, from API integrations to disaster prediction models. Passionate about leveraging data to drive informed decisions.</h3>
 
 - 🔭 I’m currently working on [U.S. Disaster Predictions](https://github.com/4GeeksAcademy/helloklow_natural_disasters)
