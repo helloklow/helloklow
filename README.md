@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Kelsey Low :woman_technologist:</h1>
-<h3 align="center">I'm a Data Scientist & Machine Learning Engineer. With 5 years of experience as an Integration and Implementation Engineer and a degree in Visual Journalism, I'm passionate about combining the technical and the creative to tell insightful stories with data.</h3>
+<h3 align="center">I'm a Data Scientist & Machine Learning Engineer. With a degree in Visual Journalism and 5 years of experience as an Integration and Implementation Engineer, I'm passionate about taking a creative approach to technical analysis in order to uncover insightful stories from data.</h3>
 
-- :heavy_check_mark: I recently completed [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
+- :white_check_mark: I recently completed [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
 
 - :bulb: I’m currently working on [Aviation Accident Causes](https://github.com/helloklow/aviation_accident_causes)
 
