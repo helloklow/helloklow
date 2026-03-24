@@ -3,7 +3,7 @@
 
 - :white_check_mark: I recently completed [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
 
-- :bulb: I’m currently working on [Aviation Accidents](https://github.com/helloklow/aviation_accidents)
+- :bulb: I’m currently working on [Pet Adoption Predictor](https://github.com/helloklow/pet-adoption-predictor)
 
 - :woman_technologist: All of my projects are available at [https://github.com/helloklow](https://github.com/helloklow)
 
