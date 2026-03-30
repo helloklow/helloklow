@@ -3,9 +3,9 @@
 
 - :white_check_mark: Team Capstone Project: Data Science, ML, & Full-Stack Engineering [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
 
-- :white_check_mark: Personal Portfolio Project: Data Science and ML Fundamentals [Pet Adoption Predictions](https://github.com/helloklow/pet-adoption-predictor)
+- :white_check_mark: Portfolio Project: Data Science and ML Fundamentals [Pet Adoption Predictions](https://github.com/helloklow/pet-adoption-predictor)
 
-- :bulb: I’m currently working on 
+- :bulb: I’m currently working on Portfolio Project: Data Engineering & SQL (Modern Data Stack) [ISP Churn Predictions](https://github.com/helloklow/isp-churn-predictor)
 
 - :woman_technologist: All of my projects are available at [https://github.com/helloklow](https://github.com/helloklow)
 
