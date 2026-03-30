@@ -3,7 +3,7 @@
 
 - :white_check_mark: Team Capstone Project: Data Science, ML, & Full-Stack Engineering [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
 
-- :white_check_mark: Personal Portfolio Project: Data Science and ML Fundamentals [Pet Adoption Predictor](https://github.com/helloklow/pet-adoption-predictor)
+- :white_check_mark: Personal Portfolio Project: Data Science and ML Fundamentals [Pet Adoption Predictions](https://github.com/helloklow/pet-adoption-predictor)
 
 - :bulb: I’m currently working on 
 
