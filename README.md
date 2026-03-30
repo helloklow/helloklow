@@ -1,9 +1,11 @@
 <h1 align="center"> Hi, I'm Kelsey Low :woman_technologist:</h1>
 <h3 align="center">I'm an experienced Integration & Implementation Engineer, currently focused on expanding my skillset in Data Science & Machine Learning. With a degree in Visual Journalism and over 12 years of experience in healthcare and financial technologies, I'm passionate about taking a creative approach to technical analysis in order to discover insightful stories within data.</h3>
 
-- :white_check_mark: I recently completed [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
+- :white_check_mark: Team Capstone Project: Data Science, ML, & Full-Stack Engineering [U.S. Disaster Predictions](https://github.com/helloklow/natural_disasters)
 
-- :bulb: I’m currently working on [Pet Adoption Predictor](https://github.com/helloklow/pet-adoption-predictor)
+- :white_check_mark: Personal Portfolio Project: Data Science and ML Fundamentals [Pet Adoption Predictor](https://github.com/helloklow/pet-adoption-predictor)
+
+- :bulb: I’m currently working on 
 
 - :woman_technologist: All of my projects are available at [https://github.com/helloklow](https://github.com/helloklow)
 
